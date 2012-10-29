@@ -63,5 +63,5 @@ For advanced ease of use, some synonyms are allowed within these data structures
      `enqueue` is synonymous to `push` on a `Queue` and it's aliases.  
      `dequeue` is synonymous to `pop` on a  `Queue` and it's aliases.  
 
-Please feel free to use, suggest, augment as long as you honor the [LICENSE](./LICENSE).  
+Please feel free to use, suggest, augment as long as you honor the LICENSE.  
     
