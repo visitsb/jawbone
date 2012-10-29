@@ -2,8 +2,8 @@
  * Essential Data structures in Javascript
  * =======
  * Collection of essential computer science data structures in Javascript. Plus some additional nifty datastructures coming in upcoming versions.
- * Author: Shantibhushan Naik
- * Version: 1.0
+ * Author: Shantibhushan Naik <visitsb at gmail dot com>
+ * Version: v1.0
  * License: MIT https://github.com/visitsb/default/blob/master/LICENSE
  */
 <!--
